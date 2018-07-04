@@ -1,0 +1,43 @@
+{
+     #Holds a list of all Changelogs
+    changelogs:
+    {
+        #the title of the changelog
+        #color codes work here
+          #Handles ordering of changelogs. Largest number appears first
+      "May 30,2018":
+      {
+        #Decides the order of the updates
+        update: 1
+        #A list of changes
+        #Color codes work here
+        changes:[
+
+          "&b&lSTAFF",
+          "&6&l - &7Demoted ponk",
+        "&c&lFIXED",
+          "&6&l - &7Bug with genie arms",
+         "&a&lADD ",
+          "&6&l - &7ADD New Rare",
+         "&6&l - &7ADD New Stuff",
+         ]
+
+
+      }
+
+      "June 6,2018":
+      {
+        update: 2
+        changes:
+        [
+           "&b&lSTAFF"
+           "&6&l - &7New moderators"
+           "&c&lFIXED"
+           "&6&l - &7even more stuff"
+           "&a&lADD "
+           "&6&l - &7I'm not sure"
+        ]
+    }
+
+   }
+}

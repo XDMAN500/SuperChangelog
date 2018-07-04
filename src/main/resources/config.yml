@@ -1,0 +1,5 @@
+
+#Whether to use Hjson or yaml for config files
+#true: use changelogs.yml
+#false: use changelogs.hjson [Recommended]
+use-yaml-config: true

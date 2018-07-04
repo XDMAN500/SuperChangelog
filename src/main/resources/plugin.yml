@@ -1,0 +1,13 @@
+name: SuperChangeLog
+main: me.varmetek.plugin.superchangelog.SuperChangelogPlugin
+version: 1.0.0
+description: A plugin that shows changelogs in a fun manner
+authors:
+  - Varmetek
+commands:
+  changelog:
+    aliases: [cl]
+permissions:
+  supercl.admin:
+    description: Allows access to admin commands
+    default: op
